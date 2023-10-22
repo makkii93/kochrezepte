@@ -1,0 +1,45 @@
+.termin {
+	font-weight:bold;
+}
+.datum {
+	font-size:0.8em;
+	color:grey;
+}
+.notiz {
+	font-style:italic;
+}
+.termine .kategorie {
+	border-left:5px solid white;
+	margin-bottom:0.5em;
+}
+
+ul, li {
+	list-style-type:none;
+	display:block;
+	margin:0px;
+	padding:0px;
+}
+ul {
+}
+.user > li {
+	margin-bottom:1em;
+	padding-bottom:1em;
+	border-bottom:1px solid grey;
+}
+.termine {
+	margin-left:1em;
+}
+.termine > li {
+	border:1px solid grey;
+	padding:1em;
+	margin-bottom:0.5em;
+	border-radius:0.2em;
+}
+.nickname {
+	margin-bottom:0.5em;
+	text-align:right;
+}
+
+.einladungen {
+	margin:1em;
+	font-size:80%;
